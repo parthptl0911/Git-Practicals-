@@ -1,1 +1,5 @@
 This is file2 for git practical
+
+Dashboard UI added
+
+Dashboard backend logic

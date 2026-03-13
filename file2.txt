@@ -5,5 +5,3 @@ Dashboard UI added
 Dashboard backend logic
 
 Analytics backend logic
-
-Notification backend logic

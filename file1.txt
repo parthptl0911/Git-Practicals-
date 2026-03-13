@@ -5,5 +5,3 @@ Feature1 branch change
 Analytics module UI
 
 Notification UI module
-
-Payment module implementation
